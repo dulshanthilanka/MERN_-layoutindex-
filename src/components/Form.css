@@ -1,0 +1,17 @@
+.btn {
+    width: 80px;
+    height: 30px;
+    border-radius: 8px;
+    border: none;
+    font-size: 20px;
+    transition-duration: 300ms;
+    color: rgba(0,0,0,0.5);
+}
+
+.btn:hover {
+    width: 90px;
+    height: 35px;
+    border-radius: 5px;
+    font-size: 22px;
+    cursor: pointer;
+}

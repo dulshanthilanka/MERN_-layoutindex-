@@ -1,0 +1,14 @@
+* {
+  margin: 0 auto;
+}
+.App {
+  margin-top: 150px;
+  color:aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0,0.5);
+  width: 350px;
+  height: 450px;
+  border-radius: 20px;
+}
